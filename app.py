@@ -10,4 +10,4 @@ def about():
    return "<hi>About Page!</hi>"
 
 if __name__ == "__main__":
-   app.run(port=None)
+   app.run()
